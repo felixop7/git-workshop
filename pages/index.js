@@ -29,7 +29,7 @@ export default function Home() {
 
         <p className="my-4">
           Add yourself to this website by submitting a pull request on {' '}
-          <a href="https://github.com/googol88/github-workshop" className="text-blue-600 hover:underline" target="_blank">googol88/github-workshop</a>!
+          <a href="https://github.com/felixop7/git-workshop" className="text-blue-600 hover:underline" target="_blank">felixop7/git-workshop</a>!
         </p>
 
         <div className="flex flex-wrap justify-center max-w-4xl">
@@ -52,11 +52,11 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Presented at{' '}
+          Presented by{' '}
           <span className="ml-1 mr-0.5">
-            <Image src="/hillshacks.png" alt="hillsHacks VI" width={16} height={16} />
+            <Image src="/OIP.jpeg" alt="kucc" width={16} height={16} />
           </span>
-          hillsHacks
+          Cloud Community at Kathmandu Univeristy Computer Club
         </a>
       </footer>
     </div>
