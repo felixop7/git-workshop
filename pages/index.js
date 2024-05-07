@@ -48,7 +48,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://hillshacks.com/"
+          href="https://kucc.ku.edu.np/"
           target="_blank"
           rel="noopener noreferrer"
         >
