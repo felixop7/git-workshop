@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 
 export default function Card({ username, name, quote }) {
+  console.log("PULLLLL!");
   return (
     <div className="p-8 m-4 border shadow-lg w-96 bg-slate-100 rounded-xl">
       <a
